@@ -1,0 +1,9 @@
+- Development process:
+    - Linting (ESLint, JSHint etc.)
+    - Testing (Jest, Mocha, Chai)
+    - Formatting (Prettier)
+    - Coding conventions (editorconfig)
+- `dependencies` vs `devDependencies` (`--save-dev`)
+- `scripts` property in `package.json`
+- component lifecyle (rough)
+- `useEffect` and `useState` hook

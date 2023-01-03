@@ -1,0 +1,6 @@
+- Rough overview of Node.js v/s Browser architechture
+- ECMAScript standards, and JS VMs, exceution engines.
+- Some standard node.js libs (path, fs, http).
+- Basic HTTP server using `http` library in NodeJS.
+- Basic HTTP server using `express` library.
+- Quote fetcher (`samples/quotes`).

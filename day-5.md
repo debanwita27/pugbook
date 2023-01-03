@@ -1,0 +1,2 @@
+- nodemon
+- Wrote a script to populate a database with random data fetched from 3 APIs.

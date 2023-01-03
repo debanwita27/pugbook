@@ -1,0 +1,2 @@
+- `package.json` vs `package-lock.json`
+- JSX Basics (+ tranpilation)
