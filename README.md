@@ -1,3 +1,3 @@
 # Pugbook
 
-Facebook for my children (pugs).
+Facebook for my children, AKA pugs.
