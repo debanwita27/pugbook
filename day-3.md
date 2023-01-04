@@ -16,8 +16,16 @@
     - Add a dummy user that can post comments (but the comments are not passed to the backend) [x]
 3. Backend:
     - Add tables representing:
-        - User 
-        - Comment 
+        - User [ ]
+        - Comment [ ]
+    - Create an end-point in the express backend to add a user to the database. [ ]
+    - Test the end-point with Postman. [ ]
+    - Add a sign-up form on the webpage.[ ]
+    - When a user fills in the sign-up form, and clicks the sign-up button,
+      Add a user to the DB.[ ]
+    - Server-side username and password validation (both must be strings, password must at least have N characters, etc.). [ ]
+        - What should the status code be whtn the username/password is invalid? [ ]
+    - Client side validation (both fields are required, password must have at least 1 lowercase and 1 uppercase letter, 1 special character and a number. Must at least be 6 characters long). [ ]
     - Add endpoints for:
-        - Log-in  
-        - Post comment  
+        - Log-in
+        - Post comment
